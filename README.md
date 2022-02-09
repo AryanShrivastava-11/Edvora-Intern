@@ -30,7 +30,7 @@ This project is a Take Home Project(Interview Project) assigned by Edvora for th
 </p>
 
 ## Video Demo Link:
-https://youtu.be/0Pq0vhEPgHY
+https://youtu.be/RTObNCQl1M0
 
 ## Note: 
 - Did my best to replicate the app exactly from the Figma design file provided. 
