@@ -42,4 +42,5 @@ https://youtu.be/RTObNCQl1M0
 - Email: aryanshrivastava.3@gmail.com
 - LinkedIn: https://linkedin.com/in/aryan-shrivastava
 - Twitter: https://twitter.com/AS11_twt
+- Resume: https://drive.google.com/file/d/1fIlJjRTuiHQ6EIq4zrNTIBNMEV3kBJvd/view?usp=sharing
 
